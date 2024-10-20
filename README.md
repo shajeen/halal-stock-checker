@@ -48,7 +48,7 @@ Once the application starts:
 - requests: For making HTTP requests
 - beautifulsoup4: For parsing HTML content
 - textual: For creating the terminal user interface
-- tqdm: For displaying progress bars
+- tqdm: For displaying progress 
 
 ## Contributing
 
